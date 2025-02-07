@@ -3,7 +3,7 @@ by Thanh-Huy Nguyen and Thi-Thu-Khiet Dang
 ## Introduction
 Official code for Hybrid and Distributed AI project.
 
-## Proposed AdaEMA Framework for Semi-Supervised Cardiac Segmentation
+## Our Graph Convolutional Networks Framework on Image Datasets
 
 <center><img src='framework.png' width=90%/></center>
 
