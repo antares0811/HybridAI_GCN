@@ -1,4 +1,4 @@
-# Tutorial on Graph Convolutional Networks (Hybrid AI Project)
+# Graph Convolutional Networks Tutorial (Hybrid AI Project)
 by Thanh-Huy Nguyen and Thi-Thu-Khiet Dang
 ## Introduction
 Official code for Hybrid and Distributed AI project.
